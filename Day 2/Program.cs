@@ -341,11 +341,12 @@ namespace Day_2
             #endregion
 
             #region Null-Conditional | Propagation operator
-            //int[] numbers = { 1, 2, 3, 4 };           
-            //int[]? numbers = null; 
+            //int[] numbers = { 1, 2, 3, 4 };
+            //int[]? numbers = null;
 
-            //for (int i = 0; /*i<null*/i<numbers?.Length; i++) { 
-            //    Console.WriteLine(numbers[i]);
+            //for (int i = 0; /*i<null*/i < 5 /*numbers.Length*/; i++)
+            //{
+            //    Console.WriteLine(numbers?[i]);
             //}
 
 
