@@ -1,5 +1,11 @@
 <Solution>
-  <Project Path="Day 2/Day2.csproj" Id="2fcbfa77-f2e3-4e49-af57-07297e55c173" />
-  <Project Path="Day3/Day3.csproj" Id="7e30a778-ff7e-4440-bb7d-f9141d253399" />
-  <Project Path="G02/Day1.csproj" />
+  <Folder Name="/C# Basics/">
+    <Project Path="Day 2/Day2.csproj" Id="2fcbfa77-f2e3-4e49-af57-07297e55c173" />
+    <Project Path="Day3/Day3.csproj" Id="7e30a778-ff7e-4440-bb7d-f9141d253399" />
+    <Project Path="G02/Day1.csproj" />
+  </Folder>
+  <Folder Name="/OOP/">
+    <Project Path="Day4/Day4.csproj" Id="fc3eb805-080e-4024-8266-53251da57b00" />
+  </Folder>
+  <Project Path="Common/Common.csproj" Id="1ab549a9-c4e7-4599-b226-17585d7cb732" />
 </Solution>
