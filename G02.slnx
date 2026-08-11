@@ -6,6 +6,7 @@
   </Folder>
   <Folder Name="/OOP/">
     <Project Path="Day4/Day4.csproj" Id="fc3eb805-080e-4024-8266-53251da57b00" />
+    <Project Path="Day5/Day5.csproj" Id="ae48e2df-d7cd-4bb8-827a-cc43c0ca94fa" />
   </Folder>
   <Project Path="Common/Common.csproj" Id="1ab549a9-c4e7-4599-b226-17585d7cb732" />
 </Solution>
