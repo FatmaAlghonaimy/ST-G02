@@ -5,6 +5,7 @@
     <Project Path="G02/Day1.csproj" />
   </Folder>
   <Folder Name="/OOP/">
+    <Project Path="Day 6/Day6.csproj" Id="ad33288a-6d02-4b4c-acff-81bfc1cdde0e" />
     <Project Path="Day4/Day4.csproj" Id="fc3eb805-080e-4024-8266-53251da57b00" />
     <Project Path="Day5/Day5.csproj" Id="ae48e2df-d7cd-4bb8-827a-cc43c0ca94fa" />
   </Folder>
